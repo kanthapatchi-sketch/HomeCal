@@ -1,0 +1,6 @@
+{
+  "name": "Vehicle Energy Tracker",
+  "description": "A comprehensive vehicle energy tracking app with Google Drive cloud backup & restore, AI OCR receipt scanning, weekly/monthly driving insights, and an intelligent automotive assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
